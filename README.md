@@ -1,1 +1,1 @@
-# Self-Checkout_Kiosk_-Java-
+# Self-Checkout_Kiosk_Java
